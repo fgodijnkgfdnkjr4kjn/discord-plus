@@ -23,7 +23,7 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 0;
   --dplus-accent-color-saturation: 0%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-lightness: 0%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 150;
@@ -34,7 +34,7 @@
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 0;
   --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-lightness-amount: 0;
   --dplus-background-color-alpha: 0.8;
 }
 
@@ -49,7 +49,7 @@
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-lightness-amount: 0;
 
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 0;
@@ -61,7 +61,7 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'RubikGlitch';
-  --dplus-font-body: 'Roboto';
+  --dplus-font-body: 'RubikGlitch';
   --dplus-font-header: 'Righteous';
 
 /* Round corner sizes, measured in pixel radius.
