@@ -21,18 +21,18 @@
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 1000;
+  --dplus-accent-color-hue: 65;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 1000;
-  --dplus-foreground-color-hue-links: 197;
+  --dplus-foreground-color-hue-base: 150;
+  --dplus-foreground-color-hue-links: 220;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 320;
+  --dplus-background-color-hue: 65;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
+  --dplus-font-ui: 'RubikGlitch';
   --dplus-font-body: 'Roboto';
   --dplus-font-header: 'Righteous';
 
